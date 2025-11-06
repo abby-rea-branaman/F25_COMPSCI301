@@ -1,0 +1,3 @@
+﻿  Midterm.cpp
+C:\Users\Owner\OneDrive - University of La Verne\C++\AbbyBranaman_Midterm\AbbyBranaman_Midterm\Midterm.cpp(147,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AbbyBranaman_Midterm.vcxproj -> C:\Users\Owner\OneDrive - University of La Verne\C++\AbbyBranaman_Midterm\x64\Debug\AbbyBranaman_Midterm.exe
